@@ -1,0 +1,11 @@
+.todo {
+    padding: 5px;
+    margin: 5px;
+    width: 300px;
+    border: 1px solid lightgrey;
+}
+
+.deleteBtn {
+    margin-left: 5px;
+    float: right;
+}
